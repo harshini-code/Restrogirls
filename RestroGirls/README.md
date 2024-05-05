@@ -1,4 +1,4 @@
 # RestroGirls
 
-A Simple  Resturant Management System Project in PHP
+A Simple  Restaurant Management System Project in PHP
 
