@@ -4,7 +4,7 @@
 		        <h2 class="header">ABOUT US</h2>
 		        <p class="grey-text text-darken-3 lighten-3">Welcome to Restro Girls, your ultimate destination for an authentic Indian dining experience in the heart of Kolkata. Immerse yourself in the vibrant flavors, rich aromas, and warm hospitality of India as you embark on a culinary journey like no other.
 
-At [Restaurant Name], we take pride in showcasing the diverse and exquisite flavors of Indian cuisine. Our talented team of chefs skillfully craft each dish with a perfect blend of traditional techniques and modern innovation. From sizzling tandoori grills and aromatic curries to mouthwatering biryanis and delectable street food, our menu offers a wide range of options to tantalize your taste buds.
+At Restro Girls, we take pride in showcasing the diverse and exquisite flavors of Indian cuisine. Our talented team of chefs skillfully craft each dish with a perfect blend of traditional techniques and modern innovation. From sizzling tandoori grills and aromatic curries to mouthwatering biryanis and delectable street food, our menu offers a wide range of options to tantalize your taste buds.
 
 Step into our beautifully designed restaurant, where the captivating ambiance and welcoming decor create an inviting atmosphere. Whether you're enjoying an intimate dinner, celebrating a special occasion, or hosting a corporate event, our attentive staff will ensure a memorable experience for you and your guests.
 
